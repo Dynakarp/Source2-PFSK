@@ -1,6 +1,8 @@
 # Source 2 Pancake FPS Starter Kit (PFSK)
 **Please don't use this to play Half-Life: Alyx and then complain about the game being bad!!!**
 
+***This was NOT intended to be used to play Half-Life: Alyx with!!! It is intended to be a base for non-VR supporting addons for the Source 2 Engine to use!!!***
+
 **NOTICE**: The PFSK is a pre-release project that is not production ready at this time, and may require substantial modification before it may be considered production ready. The PFSK's features and content are not final and is subject to change at any time.
 
 Contributions are welcome!
