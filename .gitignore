@@ -2,3 +2,6 @@
 stats.txt
 _bakeresourcecache/
 maps/
+cfg/
+!cfg/autoexec.cfg
+!cfg/user_keys_default.vcfg
