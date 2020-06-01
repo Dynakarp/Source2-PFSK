@@ -16,7 +16,9 @@ The Source 2 Pancake FPS Starter Kit is designed to be a shared addon base that 
 
 2. Extract "hlvr" and "pancake_base" to your "steamapps\common\Half-Life Alyx\game\" folder. Make sure you overwrite any files that need to be overwritten.
 
-3. That's it! Simply make an addon (or if you have an existing one, use that), and you can now use the PFSK!
+3. Add "-novr" to the launch options for Half-Life: Alyx.
+
+4. That's it! Simply make an addon (or if you have an existing one, use that), and you can now use the PFSK!
 
 # Tips
 Ideally, one would not use this to make an addon for Half-Life: Alyx that is solely for non-VR. Instead, you could use this to create
