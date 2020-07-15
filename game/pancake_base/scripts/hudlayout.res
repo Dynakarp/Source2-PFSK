@@ -34,6 +34,41 @@
 		"digit_xpos" "60"
 		"digit_ypos" "-1"
 	}
+	
+	HudSuit [$WIN32]
+	{
+		"fieldName"		"HudSuit"
+		"xpos"	"140"
+		"ypos"	"432"
+		"wide"	"108"
+		"tall"  "36"
+		"visible" "1"
+		"enabled" "1"
+
+		"PaintBackgroundType"	"2"
+
+		"text_xpos" "8"
+		"text_ypos" "20"
+		"digit_xpos" "50"
+		"digit_ypos" "2"
+	}
+	HudSuit [$X360]
+	{
+		"fieldName"		"HudSuit"
+		"xpos"	"176"
+		"ypos"	"416"
+		"wide"	"117"
+		"tall"  "36"
+		"visible" "1"
+		"enabled" "1"
+
+		"PaintBackgroundType"	"2"
+
+		"text_xpos" "8"
+		"text_ypos" "18"
+		"digit_xpos" "50"
+		"digit_ypos" "-1"
+	}
 
 	HudAmmo	[$WIN32]
 	{
