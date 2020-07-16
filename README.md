@@ -5,7 +5,7 @@
 
 **Update 5,000: If you're here from a Rock Paper Shotgun article, please note that "Goutrial" is not affiliated with this project in any way, shape, or form!**
 
-**NOTICE**: The PFSK is a pre-release project that is not production ready at this time, and may require substantial modification before it may be considered production ready. The PFSK's features and content are not final and is subject to change at any time.
+**NOTICE**: The PFSK is a pre-release project that is not production ready at this time, and may require substantial modification before it may be considered production ready. The PFSK's features and content are not final and is subject to change at any time. The issues tracker is solely for issues with this project, not support. Your issue may be deleted if it is support related.
 
 Contributions are welcome!
 
@@ -32,7 +32,7 @@ one over the other, that you pick VR over non-VR, as opposed to making an addon 
 
 # Credits
 
-Credit to Dyna#9607/Dynacorp/KonqiTheKonqueror for the rounded HUD corners, weapon scripts, and creating the Pancake FPS Starter Kit.
+Credit to npc_dyna#9607/Dynacorp/KonqiTheKonqueror for the rounded HUD corners, weapon scripts, and creating the Pancake FPS Starter Kit.
 
 Credit to https://juniez.artstation.com/ for the weapons.
 
