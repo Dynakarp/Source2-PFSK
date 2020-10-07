@@ -32,7 +32,7 @@ one over the other, that you pick VR over non-VR, as opposed to making an addon 
 
 # Credits
 
-Credit to npc_dyna#9607/Dynacorp/KonqiTheKonqueror for the rounded HUD corners, weapon scripts, and creating the Pancake FPS Starter Kit.
+Credit to Dyna#9607/Dynacorp/Dynakarp/npc_dyna/KonqiTheKonqueror for the rounded HUD corners, weapon scripts, and creating the Pancake FPS Starter Kit.
 
 Credit to https://juniez.artstation.com/ for the weapons.
 
