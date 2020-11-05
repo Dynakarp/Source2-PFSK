@@ -3,8 +3,6 @@
 
 ***This was NOT intended to be used to play Half-Life: Alyx with!!! It is intended to be a base for non-VR supporting addons for the Source 2 Engine to use!!!***
 
-**Update 5,000: If you're here from a Rock Paper Shotgun article, please note that "Goutrial" is not affiliated with this project in any way, shape, or form!**
-
 **NOTICE**: The PFSK is a pre-release project that is not production ready at this time, and may require substantial modification before it may be considered production ready. The PFSK's features and content are not final and is subject to change at any time. The issues tracker is solely for issues with this project, not support. Your issue may be deleted if it is support related.
 
 Contributions are welcome!
