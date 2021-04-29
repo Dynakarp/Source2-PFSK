@@ -1,22 +1,17 @@
 # Source 2 Pancake FPS Starter Kit (PFSK)
-**Please don't use this to play Half-Life: Alyx and then complain about the game being bad!!!**
 
-***This was NOT intended to be used to play Half-Life: Alyx with!!! It is intended to be a base for non-VR supporting addons for the Source 2 Engine to use!!!***
-
-**NOTICE**: The PFSK is a pre-release project that is not production ready at this time, and may require substantial modification before it may be considered production ready. The PFSK's features and content are not final and is subject to change at any time. The issues tracker is solely for issues with this project, not support. Your issue may be deleted if it is support related.
-
-Contributions are welcome!
-
-The Source 2 Pancake FPS Starter Kit is designed to be a shared addon base that any non-VR supporting addon for Half-Life: Alyx can use.
+The Source 2 Pancake FPS Starter Kit was designed to be a shared addon base that any non-VR supporting addon for Half-Life: Alyx could use.
 
 # Usage
-1. Download the latest release from the releases page. You'll need a program like 7-Zip to open it.
+1. Don't. Use [S&Box](https://sbox.facepunch.com/) instead.
 
-2. Extract "hlvr" and "pancake_base" to your "steamapps\common\Half-Life Alyx\game\" folder. Make sure you overwrite any files that need to be overwritten.
+~~1. Download the latest release from the releases page. You'll need a program like 7-Zip to open it.~~
 
-3. Add "-novr" to the launch options for Half-Life: Alyx.
+~~2. Extract "hlvr" and "pancake_base" to your "steamapps\common\Half-Life Alyx\game\" folder. Make sure you overwrite any files that need to be overwritten.~~
 
-4. That's it! Simply make an addon (or if you have an existing one, use that), and you can now use the PFSK!
+~~3. Add "-novr" to the launch options for Half-Life: Alyx.~~
+
+~~4. That's it! Simply make an addon (or if you have an existing one, use that), and you can now use the PFSK!~~
 
 # Tips
 Ideally, one would not use this to make an addon for Half-Life: Alyx that is solely for non-VR. Instead, you could use this to create
